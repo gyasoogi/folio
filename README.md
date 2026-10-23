@@ -1,4 +1,4 @@
-# Folio — Personal Knowledge Space
+# Untit — Personal Knowledge Space
 
 화이트 & 블랙 기반의 개인용 지식 관리 웹앱 초기 버전입니다. 외부 라이브러리나 빌드 도구 없이 실행되는 단일 HTML 앱입니다.
 
